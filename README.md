@@ -64,7 +64,7 @@ This project provides a machine learning-based solution to predict salary using 
 ## 💻 Streamlit App Demo
 
 <p align="center">
-  <img src="C:\Users\SRUJAN\Downloads\employee-salary-prediction\screeshots" width="80%">
+  <img src="[C:\Users\SRUJAN\Downloads\employee-salary-prediction\screeshots](https://github.com/rsrujan/employee-salary-prediction/blob/main/output.png)" width="80%">
 </p>
 
 ### ▶️ To Run Locally
